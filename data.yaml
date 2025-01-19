@@ -1,0 +1,18 @@
+names:
+- angry
+- disgust
+- fear
+- happy
+- neutral
+- sad
+- surprise
+nc: 7
+roboflow:
+  license: CC BY 4.0
+  project: facial-expression-ai-solution
+  url: https://universe.roboflow.com/ai-solutions-nbzxp/facial-expression-ai-solution/dataset/1
+  version: 1
+  workspace: ai-solutions-nbzxp
+test: C:\Users\rohan\Desktop\Project\CV\Facial-Expression---AI-Solution-1\test\images
+train: C:\Users\rohan\Desktop\Project\CV\Facial-Expression---AI-Solution-1\train\images
+val: C:\Users\rohan\Desktop\Project\CV\Facial-Expression---AI-Solution-1\valid\images
